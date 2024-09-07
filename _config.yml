@@ -1,0 +1,67 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site language
+lang: en-US
+
+# Site title
+title: "ElixirPotion"
+
+# A description of your site for meta tag, search engine results.
+description: "ElixirPotion is your go-to resource for how-to's Elixir programming. Discover tutorials, tips, and insights to help you master functional programming and build powerful, scalable applications"
+
+# The subpath of your site, e.g. /blog, for generating urls.
+baseurl: ""
+
+# The base hostname & protocol of your site for where absolute urls are needed.
+url: "/"
+
+# Favicon
+favicon: images/favicon.jpeg
+
+# Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: ""
+
+# Site navigation - each item must have a title and a url.
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about/
+  - text: Tags
+    url: /tags/
+    
+# The shortname for your Disqus site to enable comments.
+disqus: ElixirPotion
+
+# Colors
+accent_color: '#2d72d9'
+
+# Site footer
+footer:
+  content: "&copy; ElixirPotion all rights reserved. by [Adeyeye Seyi](https://www.linkedin.com/in/adeyeye-seyi-269226213/)."
+  has_social: true
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: '/page:num/'
+
+
+# Permalinks
+permalink: /:title
+
+# Conversion
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
