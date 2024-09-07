@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: About Me
+description: About Me page
+feature_image: images/author.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Hi there! I’m a passionate Elixir and Phoenix developer with over 6 years of experience in building scalable, high-performance systems for startups and SaaS platforms. I’ve worked across industries like e-commerce, telecommunications, and AI, where I’ve developed and contributed to everything from Elixir packages to API frameworks.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+I’m mostly self-taught, with a deep interest in back-end development and real-time web applications using Phoenix LiveView. I’ve also explored Python and JavaScript, and I enjoy solving complex problems with modern tech stacks. In addition to writing clean, efficient code, I love sharing my knowledge through tutorials and how-to articles.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+When I’m not coding, you can find me experimenting with new tech, contributing to open-source projects, or mentoring other developers.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
 
-*Thank You for reading!*
+*Welcome to my blog, where I’ll be sharing tips, projects, and insights about Elixir, Phoenix, and other cool tech!*

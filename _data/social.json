@@ -1,24 +1,19 @@
 {
   "links": [
     {
-      "title": "Twitter",
+      "title": "X",
       "icon": "fa-twitter",
-      "url": "https://twitter.com/"
+      "url": "https://x.com/IsraelAdeyeye1?t=wU_PDww9W-EoD_4Df7v6wQ&s=09"
     },
     {
       "title": "GitHub",
       "icon": "fa-github",
-      "url": "https://github.com/"
-    },
-    {
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://github.com/Adeyeye93/"
     },
     {
       "title": "LinkedIn",
       "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "url": "www.linkedin.com/in/adeyeye-seyi-269226213"
     }
   ]
 }
