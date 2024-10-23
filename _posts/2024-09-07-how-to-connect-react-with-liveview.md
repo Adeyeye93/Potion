@@ -2,7 +2,7 @@
 layout: post
 title: "How to connect React With liveView"
 description: "How to connect React With liveView, and Use react frontend component in liveView/Phoenix"
-date: 2019-01-02
+date: 2024-07-02
 feature_image: images/how-to-connect-react-with-liveview.png
 tags: [tips, how-to's, liveView, Phoenix]
 ---
@@ -106,3 +106,6 @@ If you run into any issues or have any questions while integrating React compone
 
 You can connect with me on [LinkedIn](www.linkedin.com/in/adeyeye-seyi-269226213 "LinkedIn") or reach out via X (link below).
 Don't forget to drop your Comment bellow
+
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
