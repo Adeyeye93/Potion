@@ -1,3 +1,12 @@
+---
+layout: post
+title: "How to Create and Upload Your Own Elixir Dependency to Hex.pm"
+description: "How to Create and Upload Your Own Elixir Dependency to Hex.pm"
+date: 2024-07-02
+feature_image: images/How to Create and Upload Your Own Elixir Dependency to Hexpm.png
+tags: [tips, how-to's, Phoenix, Elixir, Deps, Hex]
+---
+
 # How to Create and Upload Your Own Elixir Dependency to Hex.pm
 
 Creating and publishing your own Elixir package to [Hex.pm](https://hex.pm) can seem daunting at first, but it’s actually quite simple. In this guide, I’ll walk you through the steps of setting up your own dependency, registering an account on Hex, and publishing your package so that others can use it in their projects.
