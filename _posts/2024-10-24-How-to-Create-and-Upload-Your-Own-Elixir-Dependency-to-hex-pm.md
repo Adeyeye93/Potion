@@ -13,6 +13,8 @@ Creating and publishing your own Elixir package to [Hex.pm](https://hex.pm) can 
 
 Let’s dive in!
 
+<!--more-->
+
 ## Step 1: Create Your Code
 
 The first step is to create the code you want to package and share. You’ll likely already have a module or library in mind that you'd like to distribute, but let’s create a simple example for this blog.
